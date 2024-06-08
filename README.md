@@ -52,7 +52,7 @@ A switch statement is a selection statement that lets you transfer control to di
 
 -----------------------------
 
-### Loop for / while / do
+### Loop - for / while / do
 ```````js
 for (let i = 0; i < 5; i++) {
   console.log(i);
